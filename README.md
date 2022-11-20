@@ -9,9 +9,8 @@ Semi-Supervised Learning
 Confusion matrix
 
 ### References
-Hydrator - https://github.com/DocNow/hydrator/n
-imblearn - https://imbalanced-learn.org/stable/references/index.html#api/n
-random - https://docs.python.org/3/library/random.html/n
-xgboost - https://xgboost.readthedocs.io/en/latest//n
-sklearn - https://scikit-learn.org/stable//n
-nltk - https://www.nltk.org/
+#### Hydrator - https://github.com/DocNow/hydrator
+#### imblearn - https://imbalanced-learn.org/stable/references/index.html#api
+#### xgboost - https://xgboost.readthedocs.io/en/latest/
+#### sklearn - https://scikit-learn.org/stable/
+#### nltk - https://www.nltk.org/
